@@ -1,0 +1,2 @@
+# Realtime A* Visualization site
+This is a simple web application that visualizes the A* algorithm in real time. The graph based on Manhattan map. The algorithm will then find the shortest path between the start and end points. The application is written in JavaScript and uses the HTML5 canvas to draw the grid and the path.
